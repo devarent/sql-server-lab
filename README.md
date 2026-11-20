@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# sql-server-lab
+
+<sub>Run SQL Server 2022 Developer Edition in Docker and practice T-SQL with sqlcmd.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | sql-server-lab |
+| Primary language | Mixed / documentation |
+| Topics | database, database-labs, devarent, docker, lab, relational-database, sql-server, t-sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+sql-server-lab is a hands-on repository focused on: Run SQL Server 2022 Developer Edition in Docker and practice T-SQL with sqlcmd.. Primary language: Mixed / documentation. Topics: database, database-labs, devarent, docker, lab, relational-database, sql-server, t-sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
